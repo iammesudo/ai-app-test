@@ -1,0 +1,28 @@
+app,network,run,peak_cpu_pct,idle_cpu_median_pct_t_gt_15s,peak_footprint_mb,footprint_at_25s_mb,samples
+SmartNas,normal,1,113.8,47.4,402.8,382.2,46
+SmartNas,normal,2,186.4,44.2,386.1,377.7,46
+SmartNas,normal,3,155.9,45.0,435.4,381.2,45
+SmartNas,slow3g,1,97.1,45.2,409.1,351.7,46
+SmartNas,slow3g,2,170.9,43.9,390.8,378.7,45
+SmartNas,verypoor,1,107.1,40.8,333.5,262.0,46
+SmartNas,verypoor,2,166.3,50.1,331.3,328.1,46
+ABA Mobile,normal,1,125.1,0.6,258.5,242.0,46
+ABA Mobile,normal,2,172.0,0.8,258.7,243.9,47
+ABA Mobile,normal,3,165.4,0.5,270.7,244.0,47
+ABA Mobile,verypoor,1,169.2,0.9,247.9,241.9,45
+ABA Mobile,verypoor,2,170.3,0.7,246.9,240.7,46
+ACLEDA,normal,1,147.7,12.0,171.4,127.6,47
+ACLEDA,normal,2,167.6,5.3,174.8,123.0,47
+ACLEDA,normal,3,152.3,6.9,174.1,123.5,46
+ACLEDA,verypoor,1,200.4,8.3,173.8,117.6,46
+ACLEDA,verypoor,2,175.2,7.0,174.0,121.1,45
+Binance,normal,1,308.8,18.3,315.5,252.3,46
+Binance,normal,2,320.9,15.8,265.6,249.6,47
+Binance,normal,3,356.4,18.0,275.8,248.8,47
+Binance,verypoor,1,250.9,10.9,216.7,204.4,47
+Binance,verypoor,2,241.4,7.3,215.4,198.6,46
+Taobao,normal,1,343.7,27.0,297.2,286.4,46
+Taobao,normal,2,370.5,33.5,283.9,275.0,47
+Taobao,normal,3,247.5,83.7,200.4,200.4,46
+Taobao,verypoor,1,91.1,9.8,72.1,72.1,46
+Taobao,verypoor,2,242.4,19.5,152.4,149.7,46

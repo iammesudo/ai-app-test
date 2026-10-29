@@ -1,0 +1,31 @@
+pattern,count
+[com.apple.network] nw_path_necp_check_for_updates Failed to copy updated result (#),530
+"[com.apple.launchservices] Did not get URL override for <private>, but had no error. This is normal and indicates there is no override for that URL.",384
+"[(none)] -canOpenURL: failed for URL: ""<private>"" - error: ""<private>""",380
+"[com.apple.network] nw_flow_passthrough_disconnected [C#.#.#.# IPv###ae#:# ready channel-flow (satisfied (Path is satisfied), viable, interface: pdp_ip#[endc_su",250
+"[com.apple.network] nw_flow_passthrough_disconnected [C#.#.#.# IPv###bc#:# ready channel-flow (satisfied (Path is satisfied), viable, interface: pdp_ip#[endc_su",148
+"[com.apple.network] tcp_input [C#.#.#.#:#] flags=[R] seq=#, ack=#, win=# state=CLOSED rcv_nxt=#, snd_una=#",92
+[com.apple.network] nw_protocol_instance_set_output_handler Not calling remove_input_handler on #:<private>,54
+"[com.apple.securityd] error:[-#] Error Domain=NSOSStatusErrorDomain Code=-# ""return data not supported by update"" UserInfo={numberOfErrorsDeep=#, NSDescription=re",40
+[com.apple.network] quic_conn_idle_timeout_fired idle timeout now: # last ts: # delta: # idle interval: #,29
+[com.apple.network] quic_conn_idle_timeout_fired delay idle timeout by # us,29
+"[com.apple.network] nw_quic_report_application_result_on_queue <nw_association IPv###e#:#> recording success for QUIC application result, total success: #, tota",25
+"[com.apple.network] nw_quic_report_application_result_on_queue <nw_association IPv##eeca#c#:#> recording success for QUIC application result, total success: #, ",20
+"[com.apple.network] nw_endpoint_transform_get_next_child_scale_percentage [C#.# Hostname#adb#bf:# in_progress transform (satisfied (Path is satisfied), interfac",18
+"[com.apple.runningboard] Received terminate request response: <Error Domain=RBSRequestErrorDomain Code=# ""No such process found"" UserInfo={NSLocalizedFailureReason=N",15
+"[com.apple.browserEngineKit] Failed to terminate process: Error Domain=com.apple.extensionKit.errorDomain Code=# ""(null)"" UserInfo={NSUnderlyingError=# {Error Domain=RBS",15
+"[com.apple.UIKit] Background Task # (""<private>""), was created over # seconds ago. In applications running in the background, this creates a risk of terminati",14
+[com.apple.runningboard] Received launch request response: <No Error>,13
+[com.apple.runtime-issues] __delegate_identifier__:Performance Diagnostics__:::____message__: This method can cause UI unresponsiveness if invoked on the main thread. ,6
+[com.apple.WebPrivacy] Updated list with error: DownloadFailed,6
+[com.apple.RemoteTextInput] -[RTIInputSystemClient remoteTextInputSessionWithID:performInputOperation:]  perform input operation requires a valid sessionID. inputModali,6
+"[com.apple.locationd.Core] {""msg"":""state transition"", ""event"":""state_transition"", ""state"":""LocationManager"", ""id"":""#"", ""property"":""pausesLocationUpdatesAutomatically"",",5
+[com.apple.corehaptics]              CHMetrics.mm:#   +[CHMetrics doHandleErrorCode:description:]: logging Error metrics : <private>,5
+"[com.apple.audioanalytics] Sending message. { reporterID=#, category=Error, type=generic }",5
+[com.apple.imageio] WebContent[#] makeImagePlus:#: *** ERROR: 'WEBP'-_reader->initImage[#] failed err=-#,5
+[com.apple.coremedia] <<<< FigXPCUtilities >>>> signalled err=-# at <>:#,5
+LEVEL DEBUG,199625
+LEVEL NOTICE,76993
+LEVEL INFO,45067
+LEVEL FAULT,15
+LEVEL ERROR,270

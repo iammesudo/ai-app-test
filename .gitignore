@@ -1,0 +1,12 @@
+out/
+.venv/
+__pycache__/
+*.pyc
+*.pcap
+*.pcapng
+*.png
+*.jpg
+*.jpeg
+*.heic
+apps.json
+.DS_Store

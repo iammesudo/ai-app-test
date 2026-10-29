@@ -1,0 +1,28 @@
+step,host,kb
+device check,analytics.adjust.com,33.9
+device check,app-assets.smart.com.kh,13.5
+device check,fonts.gstatic.com,0.2
+choose plan & number,analytics.adjust.com,34.1
+choose plan & number,app-assets.smart.com.kh,9.7
+ID card scan,app-assets.smart.com.kh,129.3
+ID card scan,analytics.adjust.com,61.3
+ID card scan,firebaselogging-pa.googleapis.com,17.6
+face scan,analytics.adjust.com,166.0
+face scan,app-assets.smart.com.kh,162.5
+face scan,ekyc.bjrrtx.com,100.2
+face scan,face.ap-southeast-2.myhuaweicloud.com,42.5
+face scan,analytics.us.tiktok.com,2.1
+verifying identity,app-assets.smart.com.kh,282.5
+verifying identity,analytics.adjust.com,35.3
+verifying identity,ekyc.bjrrtx.com,0.2
+review & payment page,analytics.adjust.com,67.1
+review & payment page,app-assets.smart.com.kh,17.2
+Paying in ABA,api.reproio.com,18.1
+Paying in ABA,star.c10r.facebook.com,10.1
+Paying in ABA,app-assets.smart.com.kh,0.1
+Waiting after payment,app-assets.smart.com.kh,76.9
+Waiting after payment,analytics.adjust.com,42.9
+Waiting after payment,star.c10r.facebook.com,31.0
+Waiting after payment,api.reproio.com,22.4
+Waiting after payment,firebaselogging-pa.googleapis.com,17.4
+Waiting after payment,gsp-ssl.ls.apple.com,10.5

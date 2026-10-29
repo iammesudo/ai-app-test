@@ -1,0 +1,1247 @@
+app,network,run,t_s,cpu_pct_of_one_core,footprint_mb
+SmartNas,normal,1,1.26,0,244.1
+SmartNas,normal,1,1.44,69.7,246.5
+SmartNas,normal,1,2.11,33.7,218.7
+SmartNas,normal,1,2.46,44.9,218.0
+SmartNas,normal,1,3.0,28.8,218.1
+SmartNas,normal,1,3.82,33.9,209.2
+SmartNas,normal,1,4.45,113.8,333.8
+SmartNas,normal,1,4.94,64.6,330.7
+SmartNas,normal,1,5.44,73.8,399.5
+SmartNas,normal,1,5.94,58.6,395.6
+SmartNas,normal,1,6.46,60.7,370.3
+SmartNas,normal,1,6.97,59.1,345.2
+SmartNas,normal,1,7.47,62.4,348.7
+SmartNas,normal,1,7.96,38.1,346.7
+SmartNas,normal,1,8.46,63.0,375.3
+SmartNas,normal,1,8.96,47.5,380.3
+SmartNas,normal,1,9.47,65.7,375.2
+SmartNas,normal,1,9.97,35.7,349.3
+SmartNas,normal,1,10.47,49.2,348.9
+SmartNas,normal,1,10.96,54.3,351.0
+SmartNas,normal,1,11.44,42.1,352.2
+SmartNas,normal,1,11.94,41.7,353.1
+SmartNas,normal,1,12.44,57.6,378.4
+SmartNas,normal,1,12.94,41.3,379.4
+SmartNas,normal,1,13.96,42.9,378.0
+SmartNas,normal,1,14.45,42.6,348.1
+SmartNas,normal,1,14.99,40.5,349.1
+SmartNas,normal,1,15.46,47.1,350.0
+SmartNas,normal,1,15.96,38.9,350.0
+SmartNas,normal,1,16.45,57.1,402.8
+SmartNas,normal,1,16.96,43.4,389.2
+SmartNas,normal,1,17.44,58.9,389.7
+SmartNas,normal,1,17.95,36.6,363.3
+SmartNas,normal,1,18.45,47.4,364.2
+SmartNas,normal,1,18.94,33.7,357.1
+SmartNas,normal,1,19.46,52.2,351.6
+SmartNas,normal,1,19.95,32.5,352.6
+SmartNas,normal,1,20.45,59.3,359.1
+SmartNas,normal,1,20.94,50.3,353.7
+SmartNas,normal,1,21.45,38.9,354.7
+SmartNas,normal,1,21.95,38.1,353.4
+SmartNas,normal,1,22.94,48.6,354.7
+SmartNas,normal,1,23.44,50.5,356.0
+SmartNas,normal,1,23.95,45.3,356.7
+SmartNas,normal,1,24.46,47.8,376.9
+SmartNas,normal,1,24.97,59.2,382.2
+SmartNas,normal,2,0.55,0,48.1
+SmartNas,normal,2,1.19,186.4,247.5
+SmartNas,normal,2,1.56,56.2,251.9
+SmartNas,normal,2,2.09,36.5,219.8
+SmartNas,normal,2,2.54,36.9,220.6
+SmartNas,normal,2,3.04,37.9,220.8
+SmartNas,normal,2,3.88,34.4,216.9
+SmartNas,normal,2,4.04,144.9,321.6
+SmartNas,normal,2,5.05,48.9,377.1
+SmartNas,normal,2,5.54,76.1,373.0
+SmartNas,normal,2,6.04,47.4,371.3
+SmartNas,normal,2,6.55,72.6,345.0
+SmartNas,normal,2,7.06,44.5,339.5
+SmartNas,normal,2,7.57,74.3,342.8
+SmartNas,normal,2,8.06,30.0,368.0
+SmartNas,normal,2,8.6,60.6,377.4
+SmartNas,normal,2,9.12,51.1,377.2
+SmartNas,normal,2,9.62,50.8,352.7
+SmartNas,normal,2,10.14,42.8,345.2
+SmartNas,normal,2,10.67,48.7,346.3
+SmartNas,normal,2,11.2,54.1,348.3
+SmartNas,normal,2,11.72,41.3,348.5
+SmartNas,normal,2,12.23,54.1,373.1
+SmartNas,normal,2,12.72,42.9,374.9
+SmartNas,normal,2,13.2,42.9,375.9
+SmartNas,normal,2,13.67,40.8,349.1
+SmartNas,normal,2,14.14,43.2,350.9
+SmartNas,normal,2,15.09,43.6,344.9
+SmartNas,normal,2,15.55,42.6,345.8
+SmartNas,normal,2,16.06,42.3,346.3
+SmartNas,normal,2,16.56,56.9,383.9
+SmartNas,normal,2,17.06,51.4,385.0
+SmartNas,normal,2,17.56,44.2,386.1
+SmartNas,normal,2,18.07,42.6,360.0
+SmartNas,normal,2,18.56,42.5,361.0
+SmartNas,normal,2,19.06,42.5,353.0
+SmartNas,normal,2,19.56,41.5,354.8
+SmartNas,normal,2,20.06,52.4,353.4
+SmartNas,normal,2,20.57,47.9,355.8
+SmartNas,normal,2,21.06,45.8,356.6
+SmartNas,normal,2,21.55,52.1,349.0
+SmartNas,normal,2,22.05,31.0,350.7
+SmartNas,normal,2,22.55,57.9,351.2
+SmartNas,normal,2,23.05,33.1,352.3
+SmartNas,normal,2,24.08,46.1,352.4
+SmartNas,normal,2,24.57,47.2,377.7
+SmartNas,normal,3,1.31,0,244.8
+SmartNas,normal,3,1.46,68.5,245.5
+SmartNas,normal,3,2.19,36.0,214.0
+SmartNas,normal,3,2.47,34.6,218.2
+SmartNas,normal,3,3.08,34.8,212.8
+SmartNas,normal,3,3.46,35.2,210.7
+SmartNas,normal,3,4.05,155.9,324.0
+SmartNas,normal,3,5.08,50.6,374.9
+SmartNas,normal,3,5.58,55.0,373.2
+SmartNas,normal,3,6.09,60.6,345.8
+SmartNas,normal,3,6.59,55.0,343.3
+SmartNas,normal,3,7.1,64.0,345.5
+SmartNas,normal,3,7.61,52.6,342.4
+SmartNas,normal,3,8.12,46.5,343.8
+SmartNas,normal,3,8.64,54.9,433.3
+SmartNas,normal,3,8.96,59.1,434.2
+SmartNas,normal,3,9.46,53.8,435.4
+SmartNas,normal,3,9.96,42.3,358.8
+SmartNas,normal,3,10.46,43.5,353.6
+SmartNas,normal,3,10.97,54.8,353.9
+SmartNas,normal,3,11.46,38.3,356.3
+SmartNas,normal,3,11.98,48.6,380.3
+SmartNas,normal,3,12.47,49.1,382.8
+SmartNas,normal,3,12.96,40.5,383.7
+SmartNas,normal,3,13.46,51.1,357.9
+SmartNas,normal,3,14.47,38.7,359.0
+SmartNas,normal,3,14.97,51.3,359.9
+SmartNas,normal,3,15.47,33.3,353.0
+SmartNas,normal,3,15.96,54.6,353.8
+SmartNas,normal,3,16.47,37.8,395.5
+SmartNas,normal,3,16.96,57.8,390.4
+SmartNas,normal,3,17.51,31.1,358.3
+SmartNas,normal,3,17.97,48.1,356.2
+SmartNas,normal,3,18.47,35.9,357.2
+SmartNas,normal,3,18.96,41.6,358.1
+SmartNas,normal,3,19.46,43.2,359.1
+SmartNas,normal,3,19.96,54.8,357.7
+SmartNas,normal,3,20.47,48.0,361.3
+SmartNas,normal,3,20.98,56.5,360.8
+SmartNas,normal,3,21.47,39.8,355.3
+SmartNas,normal,3,22.6,60.3,353.6
+SmartNas,normal,3,22.61,34.4,355.5
+SmartNas,normal,3,23.56,45.0,355.7
+SmartNas,normal,3,24.07,42.9,356.7
+SmartNas,normal,3,24.55,62.4,381.2
+SmartNas,slow3g,1,0.73,0,241.2
+SmartNas,slow3g,1,1.24,76.0,244.1
+SmartNas,slow3g,1,1.72,42.1,217.8
+SmartNas,slow3g,1,2.42,39.0,212.8
+SmartNas,slow3g,1,2.83,41.2,216.2
+SmartNas,slow3g,1,3.23,35.5,216.5
+SmartNas,slow3g,1,4.21,34.7,216.8
+SmartNas,slow3g,1,4.97,40.4,217.5
+SmartNas,slow3g,1,5.39,36.7,217.9
+SmartNas,slow3g,1,5.79,36.0,216.0
+SmartNas,slow3g,1,6.39,97.1,323.0
+SmartNas,slow3g,1,6.88,43.8,318.2
+SmartNas,slow3g,1,7.37,52.3,322.1
+SmartNas,slow3g,1,7.88,60.8,281.2
+SmartNas,slow3g,1,8.42,84.2,323.1
+SmartNas,slow3g,1,8.72,32.6,326.8
+SmartNas,slow3g,1,9.21,48.3,299.9
+SmartNas,slow3g,1,9.71,36.3,285.5
+SmartNas,slow3g,1,10.22,36.8,328.8
+SmartNas,slow3g,1,10.72,61.3,330.2
+SmartNas,slow3g,1,11.22,49.8,409.1
+SmartNas,slow3g,1,12.22,59.7,406.0
+SmartNas,slow3g,1,12.72,40.4,383.7
+SmartNas,slow3g,1,13.22,69.8,372.3
+SmartNas,slow3g,1,13.74,68.1,373.6
+SmartNas,slow3g,1,14.24,52.0,377.5
+SmartNas,slow3g,1,14.75,55.8,376.3
+SmartNas,slow3g,1,15.22,42.0,377.2
+SmartNas,slow3g,1,15.74,45.9,354.2
+SmartNas,slow3g,1,16.21,46.4,352.5
+SmartNas,slow3g,1,16.71,44.9,353.4
+SmartNas,slow3g,1,17.21,49.2,348.0
+SmartNas,slow3g,1,17.71,47.9,349.8
+SmartNas,slow3g,1,18.22,51.6,391.7
+SmartNas,slow3g,1,18.72,43.9,387.3
+SmartNas,slow3g,1,19.22,43.2,388.2
+SmartNas,slow3g,1,19.72,43.7,361.5
+SmartNas,slow3g,1,20.71,57.4,362.5
+SmartNas,slow3g,1,21.21,41.4,354.7
+SmartNas,slow3g,1,21.72,42.0,354.9
+SmartNas,slow3g,1,22.25,45.2,350.4
+SmartNas,slow3g,1,22.75,51.9,381.1
+SmartNas,slow3g,1,23.25,47.9,382.9
+SmartNas,slow3g,1,23.77,50.2,352.0
+SmartNas,slow3g,1,24.31,44.4,350.6
+SmartNas,slow3g,1,24.82,44.9,351.7
+SmartNas,slow3g,2,0.81,0,71.0
+SmartNas,slow3g,2,1.32,170.9,237.9
+SmartNas,slow3g,2,1.8,30.5,217.2
+SmartNas,slow3g,2,2.3,40.9,218.0
+SmartNas,slow3g,2,2.81,29.2,217.3
+SmartNas,slow3g,2,3.31,48.4,213.0
+SmartNas,slow3g,2,3.8,31.6,220.8
+SmartNas,slow3g,2,4.34,93.2,323.0
+SmartNas,slow3g,2,4.83,54.8,318.4
+SmartNas,slow3g,2,5.33,56.6,322.0
+SmartNas,slow3g,2,5.84,58.3,281.5
+SmartNas,slow3g,2,6.36,69.5,323.5
+SmartNas,slow3g,2,6.87,54.3,324.2
+SmartNas,slow3g,2,7.38,57.5,326.8
+SmartNas,slow3g,2,7.87,22.2,312.3
+SmartNas,slow3g,2,8.4,52.5,334.5
+SmartNas,slow3g,2,8.94,52.7,375.3
+SmartNas,slow3g,2,9.44,51.4,371.5
+SmartNas,slow3g,2,10.44,52.0,374.2
+SmartNas,slow3g,2,10.95,39.7,350.2
+SmartNas,slow3g,2,11.46,67.6,372.8
+SmartNas,slow3g,2,11.98,64.6,373.4
+SmartNas,slow3g,2,12.45,50.2,380.4
+SmartNas,slow3g,2,12.93,47.6,382.3
+SmartNas,slow3g,2,13.42,41.0,382.8
+SmartNas,slow3g,2,13.91,40.6,355.8
+SmartNas,slow3g,2,14.88,0,345.5
+SmartNas,slow3g,2,15.37,53.2,346.7
+SmartNas,slow3g,2,15.85,51.0,370.7
+SmartNas,slow3g,2,16.36,49.1,390.6
+SmartNas,slow3g,2,16.86,42.0,390.8
+SmartNas,slow3g,2,17.36,41.4,367.7
+SmartNas,slow3g,2,17.86,42.5,357.8
+SmartNas,slow3g,2,18.35,42.6,358.7
+SmartNas,slow3g,2,19.33,43.9,346.8
+SmartNas,slow3g,2,19.83,42.5,347.3
+SmartNas,slow3g,2,20.35,47.5,352.9
+SmartNas,slow3g,2,20.87,49.1,354.4
+SmartNas,slow3g,2,21.37,52.0,355.6
+SmartNas,slow3g,2,22.4,0,356.2
+SmartNas,slow3g,2,22.92,46.5,357.2
+SmartNas,slow3g,2,23.44,39.3,358.1
+SmartNas,slow3g,2,23.95,43.0,359.0
+SmartNas,slow3g,2,24.44,60.5,377.3
+SmartNas,slow3g,2,24.93,41.8,378.7
+SmartNas,verypoor,1,1.19,0,242.0
+SmartNas,verypoor,1,1.28,68.8,243.8
+SmartNas,verypoor,1,2.08,34.7,217.3
+SmartNas,verypoor,1,2.46,36.7,210.5
+SmartNas,verypoor,1,2.91,43.1,216.7
+SmartNas,verypoor,1,3.3,33.1,211.5
+SmartNas,verypoor,1,4.28,36.0,215.0
+SmartNas,verypoor,1,5.0,36.0,215.2
+SmartNas,verypoor,1,5.44,37.7,215.4
+SmartNas,verypoor,1,5.85,35.0,213.9
+SmartNas,verypoor,1,6.32,36.3,215.9
+SmartNas,verypoor,1,6.81,33.4,217.3
+SmartNas,verypoor,1,7.28,40.0,217.5
+SmartNas,verypoor,1,7.79,34.1,217.0
+SmartNas,verypoor,1,8.29,35.9,217.1
+SmartNas,verypoor,1,9.0,34.0,213.4
+SmartNas,verypoor,1,9.4,32.9,213.5
+SmartNas,verypoor,1,9.83,32.4,208.1
+SmartNas,verypoor,1,10.28,34.6,213.8
+SmartNas,verypoor,1,11.04,50.1,213.7
+SmartNas,verypoor,1,11.47,26.8,208.3
+SmartNas,verypoor,1,11.89,38.9,214.1
+SmartNas,verypoor,1,12.29,35.1,208.7
+SmartNas,verypoor,1,13.29,33.9,214.4
+SmartNas,verypoor,1,13.79,37.1,214.4
+SmartNas,verypoor,1,14.29,31.2,214.6
+SmartNas,verypoor,1,14.82,35.1,214.7
+SmartNas,verypoor,1,15.28,107.1,321.1
+SmartNas,verypoor,1,15.78,37.4,314.5
+SmartNas,verypoor,1,16.32,49.6,312.8
+SmartNas,verypoor,1,16.82,62.0,323.3
+SmartNas,verypoor,1,17.31,56.9,327.2
+SmartNas,verypoor,1,17.81,56.9,282.6
+SmartNas,verypoor,1,18.31,58.1,285.6
+SmartNas,verypoor,1,18.8,33.0,280.5
+SmartNas,verypoor,1,19.29,40.8,322.4
+SmartNas,verypoor,1,19.79,50.2,320.1
+SmartNas,verypoor,1,20.3,45.4,320.0
+SmartNas,verypoor,1,20.81,32.5,311.6
+SmartNas,verypoor,1,21.31,0.6,311.6
+SmartNas,verypoor,1,22.33,3.0,253.4
+SmartNas,verypoor,1,22.83,0.7,253.4
+SmartNas,verypoor,1,23.35,16.5,329.3
+SmartNas,verypoor,1,23.82,42.6,333.5
+SmartNas,verypoor,1,24.3,0.7,320.1
+SmartNas,verypoor,1,24.8,0.5,262.0
+SmartNas,verypoor,2,0.49,0,69.4
+SmartNas,verypoor,2,1.26,166.3,244.6
+SmartNas,verypoor,2,1.71,33.5,244.9
+SmartNas,verypoor,2,2.14,34.8,218.4
+SmartNas,verypoor,2,2.58,41.8,216.8
+SmartNas,verypoor,2,3.0,35.2,217.2
+SmartNas,verypoor,2,3.99,33.0,215.4
+SmartNas,verypoor,2,4.49,33.7,215.6
+SmartNas,verypoor,2,4.98,36.6,215.8
+SmartNas,verypoor,2,5.71,35.0,215.9
+SmartNas,verypoor,2,6.12,33.8,216.0
+SmartNas,verypoor,2,6.52,44.4,217.5
+SmartNas,verypoor,2,7.01,26.7,217.3
+SmartNas,verypoor,2,7.48,33.8,217.4
+SmartNas,verypoor,2,8.19,35.6,215.8
+SmartNas,verypoor,2,8.59,33.4,210.5
+SmartNas,verypoor,2,9.02,32.0,213.2
+SmartNas,verypoor,2,9.49,32.0,207.8
+SmartNas,verypoor,2,10.21,36.6,213.5
+SmartNas,verypoor,2,10.67,33.2,213.2
+SmartNas,verypoor,2,11.12,44.2,213.4
+SmartNas,verypoor,2,11.52,47.0,213.8
+SmartNas,verypoor,2,12.49,25.4,208.5
+SmartNas,verypoor,2,12.99,36.7,214.2
+SmartNas,verypoor,2,13.48,32.1,214.3
+SmartNas,verypoor,2,13.99,36.1,214.2
+SmartNas,verypoor,2,14.49,34.7,214.3
+SmartNas,verypoor,2,14.99,33.2,214.4
+SmartNas,verypoor,2,15.49,36.2,209.1
+SmartNas,verypoor,2,15.99,95.1,317.3
+SmartNas,verypoor,2,16.49,51.3,316.1
+SmartNas,verypoor,2,16.99,59.4,316.8
+SmartNas,verypoor,2,17.48,61.1,313.7
+SmartNas,verypoor,2,17.99,55.6,286.1
+SmartNas,verypoor,2,18.49,51.6,303.1
+SmartNas,verypoor,2,18.99,57.9,300.7
+SmartNas,verypoor,2,19.48,47.8,324.9
+SmartNas,verypoor,2,19.99,32.2,325.5
+SmartNas,verypoor,2,20.5,50.1,331.3
+SmartNas,verypoor,2,21.49,50.1,331.2
+SmartNas,verypoor,2,21.99,17.0,322.6
+SmartNas,verypoor,2,22.51,0.7,257.8
+SmartNas,verypoor,2,22.99,0.8,257.8
+SmartNas,verypoor,2,23.5,0.6,235.4
+SmartNas,verypoor,2,24.03,0.6,235.4
+SmartNas,verypoor,2,24.5,46.5,328.1
+ABA Mobile,normal,1,1.03,0,10.2
+ABA Mobile,normal,1,1.45,117.3,19.0
+ABA Mobile,normal,1,1.94,125.1,56.4
+ABA Mobile,normal,1,2.48,111.3,237.7
+ABA Mobile,normal,1,2.95,90.5,221.1
+ABA Mobile,normal,1,3.44,59.6,258.5
+ABA Mobile,normal,1,4.26,20.3,257.3
+ABA Mobile,normal,1,4.42,1.9,257.3
+ABA Mobile,normal,1,5.08,3.6,247.2
+ABA Mobile,normal,1,5.42,2.0,247.2
+ABA Mobile,normal,1,6.73,1.0,238.1
+ABA Mobile,normal,1,6.93,0.2,238.1
+ABA Mobile,normal,1,7.59,0.2,238.1
+ABA Mobile,normal,1,7.92,0.4,238.0
+ABA Mobile,normal,1,8.44,0.2,238.0
+ABA Mobile,normal,1,9.27,0.6,238.0
+ABA Mobile,normal,1,9.44,0.4,238.0
+ABA Mobile,normal,1,10.44,0.4,238.0
+ABA Mobile,normal,1,10.51,16.0,241.9
+ABA Mobile,normal,1,11.33,0.8,241.8
+ABA Mobile,normal,1,11.45,0.1,241.8
+ABA Mobile,normal,1,12.23,12.5,242.1
+ABA Mobile,normal,1,12.43,0.8,242.1
+ABA Mobile,normal,1,13.09,2.0,242.2
+ABA Mobile,normal,1,13.43,1.1,242.2
+ABA Mobile,normal,1,13.97,1.6,242.0
+ABA Mobile,normal,1,14.85,0.2,242.0
+ABA Mobile,normal,1,14.93,0.1,242.0
+ABA Mobile,normal,1,15.69,0.4,242.0
+ABA Mobile,normal,1,15.93,9.0,242.0
+ABA Mobile,normal,1,16.53,3.9,242.0
+ABA Mobile,normal,1,16.93,1.3,242.0
+ABA Mobile,normal,1,17.44,12.1,242.0
+ABA Mobile,normal,1,18.27,2.3,242.0
+ABA Mobile,normal,1,18.43,0.4,242.0
+ABA Mobile,normal,1,19.1,0.1,242.0
+ABA Mobile,normal,1,19.44,0.2,242.0
+ABA Mobile,normal,1,20.83,0.2,242.0
+ABA Mobile,normal,1,20.94,0.2,242.0
+ABA Mobile,normal,1,21.77,0.1,242.0
+ABA Mobile,normal,1,21.94,5.5,241.9
+ABA Mobile,normal,1,22.66,1.7,241.9
+ABA Mobile,normal,1,22.92,0.2,241.9
+ABA Mobile,normal,1,23.54,0.3,241.9
+ABA Mobile,normal,1,23.93,0.6,242.0
+ABA Mobile,normal,1,24.47,0.7,242.0
+ABA Mobile,normal,2,0.63,0,10.3
+ABA Mobile,normal,2,1.12,172.0,46.0
+ABA Mobile,normal,2,1.61,112.8,110.0
+ABA Mobile,normal,2,2.11,126.7,224.5
+ABA Mobile,normal,2,2.82,84.5,258.7
+ABA Mobile,normal,2,3.11,4.8,258.6
+ABA Mobile,normal,2,3.7,2.7,258.7
+ABA Mobile,normal,2,4.61,3.5,248.3
+ABA Mobile,normal,2,5.37,1.1,248.3
+ABA Mobile,normal,2,5.61,0.2,248.3
+ABA Mobile,normal,2,6.25,0.4,248.2
+ABA Mobile,normal,2,6.61,0.3,248.1
+ABA Mobile,normal,2,7.15,0.8,242.2
+ABA Mobile,normal,2,8.03,0.4,242.2
+ABA Mobile,normal,2,8.14,0.8,238.0
+ABA Mobile,normal,2,8.93,1.6,237.9
+ABA Mobile,normal,2,9.12,18.5,241.8
+ABA Mobile,normal,2,9.82,0.7,241.7
+ABA Mobile,normal,2,10.12,1.1,241.7
+ABA Mobile,normal,2,10.77,0.5,241.7
+ABA Mobile,normal,2,11.12,0.5,241.7
+ABA Mobile,normal,2,11.66,5.0,242.0
+ABA Mobile,normal,2,12.49,1.2,242.0
+ABA Mobile,normal,2,12.61,0.7,242.0
+ABA Mobile,normal,2,13.37,0.5,242.0
+ABA Mobile,normal,2,13.62,0.3,242.0
+ABA Mobile,normal,2,14.21,0.4,242.0
+ABA Mobile,normal,2,14.62,0.2,242.0
+ABA Mobile,normal,2,15.15,7.3,242.1
+ABA Mobile,normal,2,15.98,1.1,242.1
+ABA Mobile,normal,2,16.11,9.1,242.1
+ABA Mobile,normal,2,16.81,3.6,242.1
+ABA Mobile,normal,2,17.12,0.5,242.1
+ABA Mobile,normal,2,17.69,3.1,242.2
+ABA Mobile,normal,2,18.56,2.9,242.2
+ABA Mobile,normal,2,18.64,0.4,242.2
+ABA Mobile,normal,2,19.4,0.2,242.2
+ABA Mobile,normal,2,19.63,0.5,242.2
+ABA Mobile,normal,2,20.29,0.6,242.2
+ABA Mobile,normal,2,21.19,0.8,242.2
+ABA Mobile,normal,2,22.04,5.4,242.3
+ABA Mobile,normal,2,22.12,0.4,242.3
+ABA Mobile,normal,2,22.92,0.2,242.3
+ABA Mobile,normal,2,23.12,0.7,242.3
+ABA Mobile,normal,2,23.82,2.9,242.3
+ABA Mobile,normal,2,24.11,9.5,243.9
+ABA Mobile,normal,2,24.7,0.2,243.9
+ABA Mobile,normal,3,0.57,0,10.4
+ABA Mobile,normal,3,1.05,165.4,42.7
+ABA Mobile,normal,3,1.57,120.4,85.4
+ABA Mobile,normal,3,2.22,114.3,270.7
+ABA Mobile,normal,3,2.54,108.5,257.5
+ABA Mobile,normal,3,3.14,9.2,257.8
+ABA Mobile,normal,3,4.04,1.7,251.8
+ABA Mobile,normal,3,4.85,3.5,251.8
+ABA Mobile,normal,3,5.04,3.9,251.8
+ABA Mobile,normal,3,5.75,0.5,251.8
+ABA Mobile,normal,3,6.04,0.3,242.8
+ABA Mobile,normal,3,6.64,0.4,242.8
+ABA Mobile,normal,3,7.04,0.7,238.2
+ABA Mobile,normal,3,7.58,5.9,238.3
+ABA Mobile,normal,3,8.39,0.5,238.3
+ABA Mobile,normal,3,8.54,0.8,238.3
+ABA Mobile,normal,3,9.3,13.8,242.4
+ABA Mobile,normal,3,9.54,2.1,242.3
+ABA Mobile,normal,3,10.2,0.8,242.3
+ABA Mobile,normal,3,10.54,0.9,242.3
+ABA Mobile,normal,3,11.09,0.5,242.3
+ABA Mobile,normal,3,11.97,5.7,242.5
+ABA Mobile,normal,3,12.07,0.7,242.5
+ABA Mobile,normal,3,12.89,0.9,242.5
+ABA Mobile,normal,3,13.06,0.5,242.5
+ABA Mobile,normal,3,13.76,0.3,242.5
+ABA Mobile,normal,3,14.04,0.4,242.5
+ABA Mobile,normal,3,14.62,0.4,242.5
+ABA Mobile,normal,3,15.51,0.8,242.5
+ABA Mobile,normal,3,15.59,1.1,242.5
+ABA Mobile,normal,3,16.35,6.2,242.4
+ABA Mobile,normal,3,16.55,5.4,242.4
+ABA Mobile,normal,3,17.24,0.5,242.4
+ABA Mobile,normal,3,18.15,0.2,242.4
+ABA Mobile,normal,3,18.55,0.3,242.4
+ABA Mobile,normal,3,19.05,0.3,242.4
+ABA Mobile,normal,3,19.89,0.2,242.3
+ABA Mobile,normal,3,20.05,0.3,242.3
+ABA Mobile,normal,3,20.83,0.9,242.3
+ABA Mobile,normal,3,21.06,0.8,242.3
+ABA Mobile,normal,3,21.78,5.7,242.4
+ABA Mobile,normal,3,22.05,0.5,242.4
+ABA Mobile,normal,3,22.68,0.3,242.4
+ABA Mobile,normal,3,23.05,0.7,242.4
+ABA Mobile,normal,3,23.58,0.3,242.4
+ABA Mobile,normal,3,24.41,15.0,244.0
+ABA Mobile,normal,3,24.56,0.4,244.0
+ABA Mobile,verypoor,1,1.14,0,10.4
+ABA Mobile,verypoor,1,1.3,169.2,46.5
+ABA Mobile,verypoor,1,1.81,110.6,134.8
+ABA Mobile,verypoor,1,2.28,94.5,216.0
+ABA Mobile,verypoor,1,3.11,36.1,247.9
+ABA Mobile,verypoor,1,3.28,9.6,236.7
+ABA Mobile,verypoor,1,3.95,9.7,237.3
+ABA Mobile,verypoor,1,4.27,4.6,230.8
+ABA Mobile,verypoor,1,5.68,11.9,230.9
+ABA Mobile,verypoor,1,5.78,3.7,231.0
+ABA Mobile,verypoor,1,6.58,24.7,239.4
+ABA Mobile,verypoor,1,6.77,5.1,238.9
+ABA Mobile,verypoor,1,7.49,18.8,239.7
+ABA Mobile,verypoor,1,7.77,7.8,236.9
+ABA Mobile,verypoor,1,8.35,1.2,236.8
+ABA Mobile,verypoor,1,9.22,6.3,235.0
+ABA Mobile,verypoor,1,9.3,13.6,235.3
+ABA Mobile,verypoor,1,10.12,19.7,237.5
+ABA Mobile,verypoor,1,10.28,1.3,237.4
+ABA Mobile,verypoor,1,10.99,1.5,237.5
+ABA Mobile,verypoor,1,11.27,3.6,237.4
+ABA Mobile,verypoor,1,11.86,2.0,237.5
+ABA Mobile,verypoor,1,12.28,0.6,237.5
+ABA Mobile,verypoor,1,12.78,2.9,237.6
+ABA Mobile,verypoor,1,13.63,9.9,240.3
+ABA Mobile,verypoor,1,14.5,12.1,241.9
+ABA Mobile,verypoor,1,14.79,4.2,241.9
+ABA Mobile,verypoor,1,15.44,2.0,241.9
+ABA Mobile,verypoor,1,15.77,1.7,241.9
+ABA Mobile,verypoor,1,16.33,0.4,241.9
+ABA Mobile,verypoor,1,17.19,0.3,241.9
+ABA Mobile,verypoor,1,17.28,1.4,241.9
+ABA Mobile,verypoor,1,18.11,0.3,241.9
+ABA Mobile,verypoor,1,18.27,0.8,242.0
+ABA Mobile,verypoor,1,19.03,0.5,242.0
+ABA Mobile,verypoor,1,19.27,0.9,242.0
+ABA Mobile,verypoor,1,19.92,0.7,241.9
+ABA Mobile,verypoor,1,20.27,0.9,241.9
+ABA Mobile,verypoor,1,20.81,0.7,241.9
+ABA Mobile,verypoor,1,21.66,15.2,241.9
+ABA Mobile,verypoor,1,21.77,0.4,241.9
+ABA Mobile,verypoor,1,22.54,0.9,241.9
+ABA Mobile,verypoor,1,22.77,0.3,241.9
+ABA Mobile,verypoor,1,23.42,1.5,242.0
+ABA Mobile,verypoor,1,23.78,3.6,241.9
+ABA Mobile,verypoor,2,1.12,0,10.4
+ABA Mobile,verypoor,2,1.5,170.3,47.5
+ABA Mobile,verypoor,2,2.07,111.2,110.9
+ABA Mobile,verypoor,2,2.49,95.6,214.4
+ABA Mobile,verypoor,2,3.02,48.0,246.7
+ABA Mobile,verypoor,2,3.86,9.9,246.9
+ABA Mobile,verypoor,2,3.97,5.9,242.6
+ABA Mobile,verypoor,2,4.76,8.3,242.9
+ABA Mobile,verypoor,2,5.0,28.7,239.7
+ABA Mobile,verypoor,2,5.62,2.7,239.1
+ABA Mobile,verypoor,2,5.98,5.2,239.1
+ABA Mobile,verypoor,2,6.51,5.0,239.3
+ABA Mobile,verypoor,2,7.34,3.0,235.6
+ABA Mobile,verypoor,2,7.48,5.6,235.8
+ABA Mobile,verypoor,2,8.2,19.1,234.4
+ABA Mobile,verypoor,2,8.49,2.5,234.2
+ABA Mobile,verypoor,2,9.11,10.7,234.2
+ABA Mobile,verypoor,2,9.99,0.8,234.1
+ABA Mobile,verypoor,2,10.87,12.8,234.3
+ABA Mobile,verypoor,2,10.99,16.9,236.4
+ABA Mobile,verypoor,2,11.81,5.6,236.4
+ABA Mobile,verypoor,2,11.98,0.7,236.4
+ABA Mobile,verypoor,2,12.72,1.5,236.4
+ABA Mobile,verypoor,2,12.98,1.0,236.4
+ABA Mobile,verypoor,2,13.63,0.6,236.4
+ABA Mobile,verypoor,2,14.0,0.5,236.4
+ABA Mobile,verypoor,2,14.51,1.1,236.4
+ABA Mobile,verypoor,2,15.39,13.3,240.6
+ABA Mobile,verypoor,2,15.49,4.0,240.6
+ABA Mobile,verypoor,2,16.31,2.2,240.7
+ABA Mobile,verypoor,2,16.48,0.5,240.7
+ABA Mobile,verypoor,2,17.37,0.5,240.7
+ABA Mobile,verypoor,2,17.48,0.3,240.6
+ABA Mobile,verypoor,2,18.29,0.9,240.6
+ABA Mobile,verypoor,2,18.49,0.3,240.6
+ABA Mobile,verypoor,2,19.17,0.7,240.6
+ABA Mobile,verypoor,2,19.49,0.2,240.6
+ABA Mobile,verypoor,2,20.09,0.8,240.6
+ABA Mobile,verypoor,2,20.48,0.7,240.6
+ABA Mobile,verypoor,2,21.01,2.4,240.6
+ABA Mobile,verypoor,2,21.89,0.4,240.6
+ABA Mobile,verypoor,2,22.75,7.8,240.6
+ABA Mobile,verypoor,2,22.99,4.9,240.6
+ABA Mobile,verypoor,2,23.67,1.1,240.6
+ABA Mobile,verypoor,2,23.98,0.3,240.7
+ABA Mobile,verypoor,2,24.56,0.3,240.7
+ACLEDA,normal,1,1.0,0,137.2
+ACLEDA,normal,1,1.59,147.7,147.3
+ACLEDA,normal,1,1.99,73.3,171.4
+ACLEDA,normal,1,2.46,71.0,164.8
+ACLEDA,normal,1,3.07,5.6,164.8
+ACLEDA,normal,1,3.46,5.5,138.4
+ACLEDA,normal,1,3.96,20.9,138.8
+ACLEDA,normal,1,4.52,19.6,137.3
+ACLEDA,normal,1,4.95,6.3,137.3
+ACLEDA,normal,1,5.96,5.6,137.3
+ACLEDA,normal,1,6.46,5.2,137.2
+ACLEDA,normal,1,7.03,5.3,137.0
+ACLEDA,normal,1,7.46,36.0,141.8
+ACLEDA,normal,1,7.96,11.4,117.0
+ACLEDA,normal,1,8.49,6.2,117.0
+ACLEDA,normal,1,8.95,5.8,116.1
+ACLEDA,normal,1,9.55,6.0,116.1
+ACLEDA,normal,1,9.96,5.0,116.1
+ACLEDA,normal,1,10.46,35.5,120.0
+ACLEDA,normal,1,10.99,9.0,119.9
+ACLEDA,normal,1,11.47,5.8,119.9
+ACLEDA,normal,1,11.96,5.7,118.7
+ACLEDA,normal,1,12.51,5.4,118.7
+ACLEDA,normal,1,12.96,12.7,118.9
+ACLEDA,normal,1,13.46,43.6,120.7
+ACLEDA,normal,1,13.99,15.3,121.6
+ACLEDA,normal,1,14.48,5.8,121.6
+ACLEDA,normal,1,15.05,4.9,121.6
+ACLEDA,normal,1,15.45,5.2,121.5
+ACLEDA,normal,1,16.48,20.6,122.5
+ACLEDA,normal,1,16.97,32.5,122.7
+ACLEDA,normal,1,17.57,24.9,125.1
+ACLEDA,normal,1,17.96,5.4,125.1
+ACLEDA,normal,1,18.47,5.3,125.1
+ACLEDA,normal,1,19.02,4.8,125.0
+ACLEDA,normal,1,19.46,28.2,126.1
+ACLEDA,normal,1,19.96,15.8,125.1
+ACLEDA,normal,1,20.5,22.4,125.0
+ACLEDA,normal,1,20.96,11.4,126.0
+ACLEDA,normal,1,21.47,5.2,126.0
+ACLEDA,normal,1,22.0,4.7,125.9
+ACLEDA,normal,1,22.48,26.8,126.0
+ACLEDA,normal,1,22.96,8.7,126.0
+ACLEDA,normal,1,23.54,21.1,125.9
+ACLEDA,normal,1,23.97,12.0,126.5
+ACLEDA,normal,1,24.46,4.9,126.5
+ACLEDA,normal,1,24.96,16.1,127.6
+ACLEDA,normal,2,0.8,0,39.5
+ACLEDA,normal,2,1.4,167.6,151.8
+ACLEDA,normal,2,1.79,66.3,147.7
+ACLEDA,normal,2,2.29,56.1,174.8
+ACLEDA,normal,2,2.78,7.8,155.2
+ACLEDA,normal,2,3.32,5.3,155.2
+ACLEDA,normal,2,3.78,5.4,137.5
+ACLEDA,normal,2,4.29,29.3,138.9
+ACLEDA,normal,2,4.81,12.1,133.0
+ACLEDA,normal,2,5.28,5.9,133.0
+ACLEDA,normal,2,5.78,5.0,133.0
+ACLEDA,normal,2,6.33,4.9,132.9
+ACLEDA,normal,2,6.79,4.6,132.8
+ACLEDA,normal,2,7.29,30.1,133.1
+ACLEDA,normal,2,7.86,9.0,108.3
+ACLEDA,normal,2,8.29,5.6,108.3
+ACLEDA,normal,2,8.79,5.3,108.0
+ACLEDA,normal,2,9.78,5.3,106.8
+ACLEDA,normal,2,10.31,10.4,112.0
+ACLEDA,normal,2,10.78,25.7,113.1
+ACLEDA,normal,2,11.29,7.9,113.0
+ACLEDA,normal,2,11.83,5.3,113.0
+ACLEDA,normal,2,12.28,4.9,113.0
+ACLEDA,normal,2,12.94,4.7,113.0
+ACLEDA,normal,2,13.3,16.1,116.2
+ACLEDA,normal,2,13.79,17.7,116.0
+ACLEDA,normal,2,14.38,7.0,116.0
+ACLEDA,normal,2,14.78,5.2,116.0
+ACLEDA,normal,2,15.29,5.0,116.0
+ACLEDA,normal,2,15.79,4.8,116.0
+ACLEDA,normal,2,16.36,21.4,117.0
+ACLEDA,normal,2,16.78,25.3,118.6
+ACLEDA,normal,2,17.28,6.3,118.5
+ACLEDA,normal,2,17.83,5.0,118.5
+ACLEDA,normal,2,18.28,4.7,118.5
+ACLEDA,normal,2,18.88,4.7,118.5
+ACLEDA,normal,2,19.28,28.5,118.5
+ACLEDA,normal,2,19.8,25.1,122.0
+ACLEDA,normal,2,20.35,5.3,121.9
+ACLEDA,normal,2,21.3,5.1,121.9
+ACLEDA,normal,2,21.83,4.5,121.8
+ACLEDA,normal,2,22.29,10.1,122.9
+ACLEDA,normal,2,22.81,23.7,121.8
+ACLEDA,normal,2,23.37,16.2,121.8
+ACLEDA,normal,2,23.8,11.4,123.0
+ACLEDA,normal,2,24.28,5.0,123.0
+ACLEDA,normal,2,24.78,4.6,123.0
+ACLEDA,normal,3,0.82,0,120.1
+ACLEDA,normal,3,1.42,152.3,146.9
+ACLEDA,normal,3,1.82,56.8,148.6
+ACLEDA,normal,3,2.3,15.9,174.1
+ACLEDA,normal,3,3.28,6.1,163.0
+ACLEDA,normal,3,3.79,5.3,163.0
+ACLEDA,normal,3,4.4,20.9,150.6
+ACLEDA,normal,3,4.79,18.0,149.5
+ACLEDA,normal,3,5.29,6.4,132.8
+ACLEDA,normal,3,5.85,4.9,132.8
+ACLEDA,normal,3,6.29,4.8,132.8
+ACLEDA,normal,3,6.79,5.0,132.6
+ACLEDA,normal,3,7.32,25.0,138.5
+ACLEDA,normal,3,7.79,16.5,132.3
+ACLEDA,normal,3,8.29,6.2,112.6
+ACLEDA,normal,3,8.8,5.9,112.5
+ACLEDA,normal,3,9.38,5.1,110.7
+ACLEDA,normal,3,9.8,4.5,110.7
+ACLEDA,normal,3,10.29,28.2,113.9
+ACLEDA,normal,3,10.88,8.0,113.8
+ACLEDA,normal,3,11.29,6.1,113.8
+ACLEDA,normal,3,11.79,5.2,113.8
+ACLEDA,normal,3,12.33,4.4,113.7
+ACLEDA,normal,3,12.79,5.3,114.2
+ACLEDA,normal,3,13.3,35.4,115.8
+ACLEDA,normal,3,14.3,13.3,116.7
+ACLEDA,normal,3,14.79,5.4,116.7
+ACLEDA,normal,3,15.4,5.3,116.6
+ACLEDA,normal,3,15.82,4.7,116.6
+ACLEDA,normal,3,16.3,11.4,117.7
+ACLEDA,normal,3,16.78,26.8,118.2
+ACLEDA,normal,3,17.32,18.7,121.4
+ACLEDA,normal,3,17.78,5.3,121.4
+ACLEDA,normal,3,18.37,4.7,121.4
+ACLEDA,normal,3,18.79,4.9,121.4
+ACLEDA,normal,3,19.29,23.6,122.5
+ACLEDA,normal,3,19.83,15.7,121.7
+ACLEDA,normal,3,20.29,18.6,122.7
+ACLEDA,normal,3,20.91,5.6,122.7
+ACLEDA,normal,3,21.3,4.7,122.7
+ACLEDA,normal,3,21.8,4.8,122.7
+ACLEDA,normal,3,22.34,27.1,122.7
+ACLEDA,normal,3,22.79,8.1,122.7
+ACLEDA,normal,3,23.29,20.1,123.5
+ACLEDA,normal,3,24.29,6.9,123.5
+ACLEDA,normal,3,24.8,4.6,123.5
+ACLEDA,verypoor,1,0.77,0,42.9
+ACLEDA,verypoor,1,1.43,200.4,148.3
+ACLEDA,verypoor,1,1.77,32.2,149.4
+ACLEDA,verypoor,1,2.3,20.1,173.8
+ACLEDA,verypoor,1,2.79,16.0,156.5
+ACLEDA,verypoor,1,3.27,6.2,154.8
+ACLEDA,verypoor,1,3.78,15.2,135.4
+ACLEDA,verypoor,1,4.26,22.3,134.5
+ACLEDA,verypoor,1,4.84,16.7,133.7
+ACLEDA,verypoor,1,5.27,6.2,132.0
+ACLEDA,verypoor,1,6.26,14.4,132.9
+ACLEDA,verypoor,1,6.81,7.0,132.0
+ACLEDA,verypoor,1,7.26,10.6,132.0
+ACLEDA,verypoor,1,7.81,20.4,106.7
+ACLEDA,verypoor,1,8.27,9.6,106.7
+ACLEDA,verypoor,1,8.76,5.8,106.7
+ACLEDA,verypoor,1,9.32,8.8,107.0
+ACLEDA,verypoor,1,9.81,6.4,107.0
+ACLEDA,verypoor,1,10.26,22.4,108.0
+ACLEDA,verypoor,1,10.81,12.9,107.0
+ACLEDA,verypoor,1,11.27,6.9,106.9
+ACLEDA,verypoor,1,11.82,5.4,106.9
+ACLEDA,verypoor,1,12.27,12.9,113.2
+ACLEDA,verypoor,1,12.78,32.3,113.8
+ACLEDA,verypoor,1,13.26,27.0,113.8
+ACLEDA,verypoor,1,13.83,8.6,112.7
+ACLEDA,verypoor,1,14.27,6.4,112.7
+ACLEDA,verypoor,1,15.27,5.2,112.5
+ACLEDA,verypoor,1,15.81,16.0,113.8
+ACLEDA,verypoor,1,16.27,19.1,115.4
+ACLEDA,verypoor,1,16.83,21.4,114.5
+ACLEDA,verypoor,1,17.26,8.3,114.5
+ACLEDA,verypoor,1,17.8,5.7,114.3
+ACLEDA,verypoor,1,18.26,5.6,114.3
+ACLEDA,verypoor,1,18.81,16.9,115.4
+ACLEDA,verypoor,1,19.26,30.1,117.3
+ACLEDA,verypoor,1,19.8,13.5,116.5
+ACLEDA,verypoor,1,20.3,6.8,116.4
+ACLEDA,verypoor,1,20.79,5.9,116.4
+ACLEDA,verypoor,1,21.27,5.3,116.4
+ACLEDA,verypoor,1,21.84,17.9,117.7
+ACLEDA,verypoor,1,22.27,35.0,117.7
+ACLEDA,verypoor,1,22.8,8.4,117.7
+ACLEDA,verypoor,1,23.76,5.5,117.7
+ACLEDA,verypoor,1,24.27,5.5,117.6
+ACLEDA,verypoor,1,24.85,5.2,117.6
+ACLEDA,verypoor,2,0.58,0,37.2
+ACLEDA,verypoor,2,1.45,175.2,165.0
+ACLEDA,verypoor,2,1.64,61.4,147.3
+ACLEDA,verypoor,2,2.06,46.0,174.0
+ACLEDA,verypoor,2,2.61,6.7,149.4
+ACLEDA,verypoor,2,3.06,14.7,149.7
+ACLEDA,verypoor,2,3.61,6.5,132.4
+ACLEDA,verypoor,2,4.06,28.8,133.6
+ACLEDA,verypoor,2,4.6,12.1,132.5
+ACLEDA,verypoor,2,5.56,17.4,132.5
+ACLEDA,verypoor,2,6.13,8.5,132.5
+ACLEDA,verypoor,2,6.56,15.3,132.5
+ACLEDA,verypoor,2,7.1,5.9,132.5
+ACLEDA,verypoor,2,7.56,22.3,132.5
+ACLEDA,verypoor,2,8.09,9.3,106.8
+ACLEDA,verypoor,2,8.64,5.5,106.8
+ACLEDA,verypoor,2,9.08,8.3,107.1
+ACLEDA,verypoor,2,9.6,7.3,107.0
+ACLEDA,verypoor,2,10.06,39.3,107.3
+ACLEDA,verypoor,2,10.59,21.7,107.3
+ACLEDA,verypoor,2,11.07,7.6,107.3
+ACLEDA,verypoor,2,11.7,5.5,106.2
+ACLEDA,verypoor,2,12.19,5.4,106.2
+ACLEDA,verypoor,2,12.59,9.1,110.2
+ACLEDA,verypoor,2,13.07,27.0,113.5
+ACLEDA,verypoor,2,14.06,13.6,112.4
+ACLEDA,verypoor,2,14.57,6.8,112.3
+ACLEDA,verypoor,2,15.12,5.5,112.1
+ACLEDA,verypoor,2,15.56,7.0,112.1
+ACLEDA,verypoor,2,16.07,11.2,113.3
+ACLEDA,verypoor,2,16.62,27.4,115.2
+ACLEDA,verypoor,2,17.07,8.8,115.1
+ACLEDA,verypoor,2,17.59,5.7,115.1
+ACLEDA,verypoor,2,18.14,5.3,115.1
+ACLEDA,verypoor,2,18.57,5.1,115.1
+ACLEDA,verypoor,2,19.11,13.9,115.1
+ACLEDA,verypoor,2,19.57,22.1,117.9
+ACLEDA,verypoor,2,20.1,7.7,117.7
+ACLEDA,verypoor,2,21.13,0,117.7
+ACLEDA,verypoor,2,21.56,5.1,117.7
+ACLEDA,verypoor,2,22.09,22.2,118.8
+ACLEDA,verypoor,2,23.06,27.5,121.2
+ACLEDA,verypoor,2,23.59,6.0,121.1
+ACLEDA,verypoor,2,24.07,5.5,121.1
+ACLEDA,verypoor,2,24.59,5.2,121.1
+Binance,normal,1,1.02,0,78.2
+Binance,normal,1,1.49,219.9,105.8
+Binance,normal,1,2.04,308.8,212.8
+Binance,normal,1,3.0,251.5,250.4
+Binance,normal,1,3.66,236.0,254.5
+Binance,normal,1,3.67,56.9,256.0
+Binance,normal,1,4.47,20.5,251.2
+Binance,normal,1,4.97,28.6,251.3
+Binance,normal,1,5.47,40.4,262.8
+Binance,normal,1,5.97,9.9,258.5
+Binance,normal,1,6.47,25.1,258.7
+Binance,normal,1,6.97,24.8,249.1
+Binance,normal,1,7.5,11.1,249.0
+Binance,normal,1,8.0,40.7,252.0
+Binance,normal,1,8.47,44.2,256.0
+Binance,normal,1,8.97,12.2,250.8
+Binance,normal,1,9.47,22.2,251.0
+Binance,normal,1,9.97,10.6,251.1
+Binance,normal,1,10.48,8.3,251.0
+Binance,normal,1,10.97,12.5,249.0
+Binance,normal,1,11.47,25.1,249.2
+Binance,normal,1,11.97,21.6,249.3
+Binance,normal,1,12.47,15.5,249.3
+Binance,normal,1,12.97,22.1,249.0
+Binance,normal,1,13.47,19.2,249.3
+Binance,normal,1,13.97,20.9,249.0
+Binance,normal,1,14.48,15.8,249.0
+Binance,normal,1,15.5,7.0,249.0
+Binance,normal,1,15.96,20.5,248.9
+Binance,normal,1,16.47,8.4,248.5
+Binance,normal,1,16.97,14.6,248.3
+Binance,normal,1,17.48,19.2,248.2
+Binance,normal,1,17.97,12.3,248.2
+Binance,normal,1,18.47,18.3,248.5
+Binance,normal,1,18.97,9.3,248.4
+Binance,normal,1,19.47,30.9,313.7
+Binance,normal,1,19.97,31.4,315.2
+Binance,normal,1,20.47,17.6,315.5
+Binance,normal,1,20.97,14.5,315.3
+Binance,normal,1,21.47,9.3,297.4
+Binance,normal,1,21.98,21.8,297.4
+Binance,normal,1,22.47,20.2,272.1
+Binance,normal,1,22.97,27.0,273.0
+Binance,normal,1,23.47,26.3,252.1
+Binance,normal,1,23.99,18.3,252.3
+Binance,normal,1,24.98,7.1,252.3
+Binance,normal,2,0.62,0,69.5
+Binance,normal,2,1.13,320.9,93.5
+Binance,normal,2,1.82,286.0,211.3
+Binance,normal,2,2.18,74.1,219.5
+Binance,normal,2,2.62,154.2,235.3
+Binance,normal,2,3.13,142.7,255.9
+Binance,normal,2,3.62,103.6,256.7
+Binance,normal,2,4.19,13.4,256.9
+Binance,normal,2,4.68,21.5,257.2
+Binance,normal,2,5.68,28.8,254.8
+Binance,normal,2,6.12,37.3,265.6
+Binance,normal,2,6.61,20.6,259.5
+Binance,normal,2,7.14,26.2,262.9
+Binance,normal,2,7.61,14.9,254.0
+Binance,normal,2,8.12,68.9,248.0
+Binance,normal,2,8.67,17.4,248.5
+Binance,normal,2,9.14,20.1,246.8
+Binance,normal,2,9.62,18.7,247.0
+Binance,normal,2,10.15,15.2,246.5
+Binance,normal,2,10.62,8.6,246.6
+Binance,normal,2,11.18,10.4,246.3
+Binance,normal,2,11.62,16.8,246.4
+Binance,normal,2,12.19,20.7,246.4
+Binance,normal,2,12.61,13.4,246.4
+Binance,normal,2,13.12,22.6,246.3
+Binance,normal,2,13.61,21.3,246.6
+Binance,normal,2,14.12,16.5,246.5
+Binance,normal,2,14.61,25.8,246.6
+Binance,normal,2,15.12,15.8,246.7
+Binance,normal,2,15.62,25.4,246.6
+Binance,normal,2,16.62,7.5,246.4
+Binance,normal,2,17.11,17.1,246.6
+Binance,normal,2,17.62,14.1,246.1
+Binance,normal,2,18.11,19.1,246.0
+Binance,normal,2,18.61,18.6,246.3
+Binance,normal,2,19.11,13.8,246.3
+Binance,normal,2,19.63,15.8,257.0
+Binance,normal,2,20.12,27.7,256.3
+Binance,normal,2,20.68,18.3,256.3
+Binance,normal,2,21.12,14.5,252.8
+Binance,normal,2,21.69,12.8,252.8
+Binance,normal,2,22.12,23.4,252.0
+Binance,normal,2,22.61,12.9,251.9
+Binance,normal,2,23.12,11.3,248.0
+Binance,normal,2,23.61,14.9,248.1
+Binance,normal,2,24.13,20.6,248.4
+Binance,normal,2,24.61,35.8,249.6
+Binance,normal,3,0.9,0,75.7
+Binance,normal,3,1.4,256.9,96.2
+Binance,normal,3,1.98,316.4,215.3
+Binance,normal,3,2.4,356.4,275.8
+Binance,normal,3,2.95,165.1,254.9
+Binance,normal,3,3.4,27.7,257.0
+Binance,normal,3,3.9,26.9,250.5
+Binance,normal,3,4.37,21.4,250.5
+Binance,normal,3,4.96,30.9,244.5
+Binance,normal,3,5.37,20.1,244.5
+Binance,normal,3,5.88,39.9,250.5
+Binance,normal,3,6.44,49.6,255.9
+Binance,normal,3,6.88,3.9,245.3
+Binance,normal,3,7.38,18.3,245.7
+Binance,normal,3,8.38,66.2,246.6
+Binance,normal,3,8.88,27.2,246.8
+Binance,normal,3,9.37,19.3,246.9
+Binance,normal,3,9.89,14.7,247.3
+Binance,normal,3,10.37,8.7,246.7
+Binance,normal,3,10.87,13.0,246.4
+Binance,normal,3,11.38,11.5,246.0
+Binance,normal,3,11.88,25.7,246.1
+Binance,normal,3,12.42,20.5,246.3
+Binance,normal,3,12.87,27.6,246.3
+Binance,normal,3,13.43,18.5,246.3
+Binance,normal,3,13.89,15.5,246.3
+Binance,normal,3,14.47,16.7,245.9
+Binance,normal,3,14.9,11.9,245.9
+Binance,normal,3,15.37,28.8,246.1
+Binance,normal,3,15.88,8.0,246.0
+Binance,normal,3,16.37,11.9,245.7
+Binance,normal,3,16.88,14.7,246.1
+Binance,normal,3,17.38,18.3,245.8
+Binance,normal,3,17.88,4.1,245.8
+Binance,normal,3,18.38,31.1,246.1
+Binance,normal,3,18.92,5.1,245.9
+Binance,normal,3,19.95,21.3,249.5
+Binance,normal,3,20.38,24.8,260.0
+Binance,normal,3,20.88,19.0,260.3
+Binance,normal,3,21.4,7.9,260.4
+Binance,normal,3,21.88,27.7,259.0
+Binance,normal,3,22.45,6.3,259.0
+Binance,normal,3,22.87,16.9,251.3
+Binance,normal,3,23.37,11.2,247.3
+Binance,normal,3,23.87,22.1,248.5
+Binance,normal,3,24.37,18.0,248.3
+Binance,normal,3,24.9,27.1,248.8
+Binance,verypoor,1,0.83,0,84.4
+Binance,verypoor,1,1.71,250.9,192.0
+Binance,verypoor,1,1.87,152.8,216.7
+Binance,verypoor,1,2.32,17.5,192.4
+Binance,verypoor,1,2.83,8.4,190.9
+Binance,verypoor,1,3.32,16.8,191.1
+Binance,verypoor,1,3.83,6.4,186.0
+Binance,verypoor,1,4.82,12.1,186.0
+Binance,verypoor,1,5.32,14.5,186.5
+Binance,verypoor,1,5.82,25.8,187.6
+Binance,verypoor,1,6.33,33.9,192.3
+Binance,verypoor,1,6.88,18.7,192.5
+Binance,verypoor,1,7.33,12.1,192.7
+Binance,verypoor,1,7.83,11.1,193.6
+Binance,verypoor,1,8.32,8.3,194.4
+Binance,verypoor,1,8.83,5.5,194.3
+Binance,verypoor,1,9.32,5.3,194.5
+Binance,verypoor,1,9.81,8.8,193.3
+Binance,verypoor,1,10.33,1.5,193.4
+Binance,verypoor,1,10.82,19.1,194.3
+Binance,verypoor,1,11.32,25.4,194.5
+Binance,verypoor,1,11.82,3.2,194.4
+Binance,verypoor,1,12.32,12.0,194.6
+Binance,verypoor,1,12.82,8.3,195.0
+Binance,verypoor,1,13.32,10.7,195.1
+Binance,verypoor,1,13.85,8.4,195.3
+Binance,verypoor,1,14.36,18.2,205.6
+Binance,verypoor,1,14.87,9.2,205.9
+Binance,verypoor,1,15.85,10.9,206.1
+Binance,verypoor,1,16.32,13.3,206.2
+Binance,verypoor,1,16.88,30.9,200.7
+Binance,verypoor,1,17.32,4.1,201.0
+Binance,verypoor,1,17.82,23.4,207.5
+Binance,verypoor,1,18.32,9.5,207.7
+Binance,verypoor,1,18.83,1.8,206.9
+Binance,verypoor,1,19.32,4.2,206.6
+Binance,verypoor,1,19.84,4.6,204.9
+Binance,verypoor,1,20.34,12.5,205.6
+Binance,verypoor,1,20.82,42.0,209.2
+Binance,verypoor,1,21.37,41.8,209.5
+Binance,verypoor,1,21.86,5.5,207.7
+Binance,verypoor,1,22.33,11.8,207.8
+Binance,verypoor,1,22.88,5.5,204.9
+Binance,verypoor,1,23.32,9.7,204.9
+Binance,verypoor,1,23.87,6.8,205.3
+Binance,verypoor,1,24.37,22.9,205.1
+Binance,verypoor,1,24.87,11.2,204.4
+Binance,verypoor,2,1.12,0,88.4
+Binance,verypoor,2,1.6,241.4,193.6
+Binance,verypoor,2,2.09,146.2,215.4
+Binance,verypoor,2,2.58,15.0,190.6
+Binance,verypoor,2,3.09,14.3,190.2
+Binance,verypoor,2,3.58,3.0,190.3
+Binance,verypoor,2,4.14,4.9,185.0
+Binance,verypoor,2,4.64,3.9,184.9
+Binance,verypoor,2,5.13,14.5,191.4
+Binance,verypoor,2,5.58,55.3,193.5
+Binance,verypoor,2,6.08,19.5,197.3
+Binance,verypoor,2,6.64,19.1,197.4
+Binance,verypoor,2,7.59,9.9,197.6
+Binance,verypoor,2,8.08,9.0,197.0
+Binance,verypoor,2,8.65,4.5,197.1
+Binance,verypoor,2,9.1,5.5,196.8
+Binance,verypoor,2,9.59,4.4,196.8
+Binance,verypoor,2,10.1,2.0,196.9
+Binance,verypoor,2,10.65,2.0,196.9
+Binance,verypoor,2,11.09,20.2,197.0
+Binance,verypoor,2,11.62,19.2,196.5
+Binance,verypoor,2,12.13,5.8,196.5
+Binance,verypoor,2,12.64,8.0,196.8
+Binance,verypoor,2,13.16,3.1,196.9
+Binance,verypoor,2,13.58,1.5,196.9
+Binance,verypoor,2,14.09,14.1,197.4
+Binance,verypoor,2,14.62,6.3,197.6
+Binance,verypoor,2,15.12,3.4,197.8
+Binance,verypoor,2,15.62,6.9,198.0
+Binance,verypoor,2,16.13,16.7,198.1
+Binance,verypoor,2,16.65,10.1,198.2
+Binance,verypoor,2,17.09,7.3,198.2
+Binance,verypoor,2,18.11,2.1,198.2
+Binance,verypoor,2,18.59,1.1,198.2
+Binance,verypoor,2,19.09,1.1,198.2
+Binance,verypoor,2,19.62,5.4,197.9
+Binance,verypoor,2,20.09,1.2,197.9
+Binance,verypoor,2,20.65,9.0,197.9
+Binance,verypoor,2,21.11,76.7,202.0
+Binance,verypoor,2,21.61,18.1,201.9
+Binance,verypoor,2,22.1,18.9,202.0
+Binance,verypoor,2,22.64,5.1,200.3
+Binance,verypoor,2,23.08,17.1,200.5
+Binance,verypoor,2,23.59,1.8,200.5
+Binance,verypoor,2,24.14,13.5,198.6
+Binance,verypoor,2,24.59,8.5,198.6
+Taobao,normal,1,0.5,0,38.8
+Taobao,normal,1,1.51,343.7,207.5
+Taobao,normal,1,2.08,343.3,262.6
+Taobao,normal,1,2.1,201.2,259.0
+Taobao,normal,1,2.51,66.4,261.4
+Taobao,normal,1,3.48,65.8,268.6
+Taobao,normal,1,4.0,35.2,264.7
+Taobao,normal,1,4.51,39.9,269.4
+Taobao,normal,1,5.19,37.6,262.6
+Taobao,normal,1,5.49,36.7,259.2
+Taobao,normal,1,6.03,48.0,250.6
+Taobao,normal,1,6.51,84.5,258.2
+Taobao,normal,1,6.98,81.7,267.7
+Taobao,normal,1,7.5,61.0,283.7
+Taobao,normal,1,8.0,34.4,289.0
+Taobao,normal,1,8.5,30.7,291.0
+Taobao,normal,1,9.01,32.1,288.4
+Taobao,normal,1,9.57,32.9,289.8
+Taobao,normal,1,10.15,26.8,285.6
+Taobao,normal,1,10.49,42.9,285.0
+Taobao,normal,1,10.98,53.0,280.5
+Taobao,normal,1,11.48,38.0,280.1
+Taobao,normal,1,11.98,36.8,281.0
+Taobao,normal,1,12.48,42.2,279.9
+Taobao,normal,1,13.66,94.0,285.5
+Taobao,normal,1,14.03,28.4,285.8
+Taobao,normal,1,14.53,49.9,292.2
+Taobao,normal,1,15.03,62.8,293.9
+Taobao,normal,1,15.51,22.6,295.5
+Taobao,normal,1,16.06,36.1,296.0
+Taobao,normal,1,16.6,33.4,297.2
+Taobao,normal,1,17.18,24.4,293.3
+Taobao,normal,1,17.48,26.4,294.9
+Taobao,normal,1,17.98,20.2,291.7
+Taobao,normal,1,18.5,29.6,292.2
+Taobao,normal,1,19.02,28.7,292.0
+Taobao,normal,1,19.52,29.3,292.1
+Taobao,normal,1,20.18,28.0,292.6
+Taobao,normal,1,20.48,21.9,292.4
+Taobao,normal,1,20.98,39.9,290.9
+Taobao,normal,1,21.5,38.2,290.8
+Taobao,normal,1,22.13,24.6,290.5
+Taobao,normal,1,22.49,22.4,290.8
+Taobao,normal,1,22.99,24.9,286.4
+Taobao,normal,1,23.49,26.4,286.6
+Taobao,normal,1,24.78,27.0,286.4
+Taobao,normal,2,0.98,0,168.8
+Taobao,normal,2,2.21,370.5,232.5
+Taobao,normal,2,2.55,205.1,239.8
+Taobao,normal,2,2.56,29.8,243.9
+Taobao,normal,2,2.93,38.0,243.6
+Taobao,normal,2,4.11,38.2,252.0
+Taobao,normal,2,4.5,42.9,251.6
+Taobao,normal,2,5.0,19.3,251.9
+Taobao,normal,2,5.5,29.9,250.0
+Taobao,normal,2,6.17,19.0,249.8
+Taobao,normal,2,6.43,27.0,250.3
+Taobao,normal,2,6.94,39.1,252.4
+Taobao,normal,2,7.57,48.6,259.3
+Taobao,normal,2,7.94,20.9,259.4
+Taobao,normal,2,8.44,19.9,259.4
+Taobao,normal,2,8.97,20.5,259.5
+Taobao,normal,2,9.63,22.7,254.8
+Taobao,normal,2,9.94,25.7,254.7
+Taobao,normal,2,10.44,36.8,252.2
+Taobao,normal,2,10.98,26.0,252.8
+Taobao,normal,2,11.66,46.1,254.6
+Taobao,normal,2,11.94,28.3,254.9
+Taobao,normal,2,12.45,24.7,254.3
+Taobao,normal,2,12.99,27.5,254.1
+Taobao,normal,2,13.66,31.7,255.0
+Taobao,normal,2,13.93,22.0,252.6
+Taobao,normal,2,14.44,24.6,253.1
+Taobao,normal,2,15.02,43.1,256.5
+Taobao,normal,2,15.7,35.3,256.8
+Taobao,normal,2,16.46,33.5,256.5
+Taobao,normal,2,17.14,35.0,254.9
+Taobao,normal,2,17.49,22.8,254.3
+Taobao,normal,2,18.0,21.8,253.8
+Taobao,normal,2,18.59,75.5,276.4
+Taobao,normal,2,18.99,28.9,283.9
+Taobao,normal,2,19.44,21.7,283.9
+Taobao,normal,2,20.01,22.1,274.5
+Taobao,normal,2,20.72,22.0,274.6
+Taobao,normal,2,20.95,85.4,277.1
+Taobao,normal,2,21.46,22.5,275.9
+Taobao,normal,2,22.02,46.5,276.5
+Taobao,normal,2,22.65,18.9,274.1
+Taobao,normal,2,22.94,30.0,274.4
+Taobao,normal,2,23.45,39.0,275.7
+Taobao,normal,2,23.94,33.6,276.4
+Taobao,normal,2,24.6,57.2,274.8
+Taobao,normal,2,24.94,18.5,275.0
+Taobao,normal,3,1.15,0,27.8
+Taobao,normal,3,1.63,22.4,28.7
+Taobao,normal,3,2.14,1.3,28.7
+Taobao,normal,3,2.63,0.1,28.7
+Taobao,normal,3,3.15,0.4,28.7
+Taobao,normal,3,3.63,0.1,28.7
+Taobao,normal,3,4.13,0.8,28.7
+Taobao,normal,3,4.63,0,28.7
+Taobao,normal,3,5.13,1.5,28.4
+Taobao,normal,3,5.64,43.2,39.6
+Taobao,normal,3,6.16,148.9,47.6
+Taobao,normal,3,6.65,62.4,48.8
+Taobao,normal,3,7.14,21.7,50.6
+Taobao,normal,3,7.64,30.6,51.3
+Taobao,normal,3,8.14,5.9,54.0
+Taobao,normal,3,8.64,4.1,54.0
+Taobao,normal,3,9.14,15.9,55.1
+Taobao,normal,3,9.66,2.6,55.0
+Taobao,normal,3,10.13,12.3,54.9
+Taobao,normal,3,10.64,4.6,54.7
+Taobao,normal,3,11.14,5.0,54.7
+Taobao,normal,3,11.64,3.9,54.8
+Taobao,normal,3,12.2,5.5,54.2
+Taobao,normal,3,12.63,7.4,54.2
+Taobao,normal,3,13.64,2.3,54.2
+Taobao,normal,3,14.14,4.1,54.2
+Taobao,normal,3,14.66,2.7,53.7
+Taobao,normal,3,15.15,1.6,53.7
+Taobao,normal,3,15.63,2.6,53.8
+Taobao,normal,3,16.14,16.6,56.3
+Taobao,normal,3,16.65,2.3,56.4
+Taobao,normal,3,17.14,3.1,56.4
+Taobao,normal,3,17.66,10.4,56.6
+Taobao,normal,3,18.16,57.3,56.6
+Taobao,normal,3,18.67,96.7,56.6
+Taobao,normal,3,19.16,83.7,56.6
+Taobao,normal,3,19.67,105.6,57.1
+Taobao,normal,3,20.19,100.8,56.8
+Taobao,normal,3,20.66,98.1,57.1
+Taobao,normal,3,21.18,91.4,57.9
+Taobao,normal,3,21.64,23.3,58.4
+Taobao,normal,3,22.16,6.0,58.0
+Taobao,normal,3,22.67,158.0,83.3
+Taobao,normal,3,23.73,218.5,154.5
+Taobao,normal,3,24.27,247.5,183.5
+Taobao,normal,3,24.74,218.0,200.4
+Taobao,verypoor,1,0.76,0,43.4
+Taobao,verypoor,1,1.29,66.2,46.5
+Taobao,verypoor,1,1.79,42.9,53.2
+Taobao,verypoor,1,2.26,10.6,53.5
+Taobao,verypoor,1,2.79,5.8,52.7
+Taobao,verypoor,1,3.32,4.9,52.7
+Taobao,verypoor,1,3.76,32.2,54.4
+Taobao,verypoor,1,4.29,0.9,54.1
+Taobao,verypoor,1,5.27,8.0,53.6
+Taobao,verypoor,1,5.77,4.0,53.5
+Taobao,verypoor,1,6.33,32.2,54.0
+Taobao,verypoor,1,6.79,7.5,54.0
+Taobao,verypoor,1,7.29,2.6,54.2
+Taobao,verypoor,1,7.78,13.6,55.1
+Taobao,verypoor,1,8.3,3.9,55.0
+Taobao,verypoor,1,8.77,8.3,55.1
+Taobao,verypoor,1,9.28,13.6,56.2
+Taobao,verypoor,1,9.78,12.2,56.3
+Taobao,verypoor,1,10.32,8.1,56.6
+Taobao,verypoor,1,10.81,16.0,56.9
+Taobao,verypoor,1,11.31,56.8,62.8
+Taobao,verypoor,1,11.82,6.2,57.9
+Taobao,verypoor,1,12.28,4.4,57.8
+Taobao,verypoor,1,12.79,18.5,59.9
+Taobao,verypoor,1,13.27,1.9,59.9
+Taobao,verypoor,1,14.27,3.0,60.0
+Taobao,verypoor,1,14.82,16.0,60.7
+Taobao,verypoor,1,15.33,11.1,61.0
+Taobao,verypoor,1,15.83,1.8,61.0
+Taobao,verypoor,1,16.29,9.5,61.0
+Taobao,verypoor,1,16.77,11.9,62.6
+Taobao,verypoor,1,17.28,7.8,62.2
+Taobao,verypoor,1,17.77,19.8,63.7
+Taobao,verypoor,1,18.27,4.0,63.7
+Taobao,verypoor,1,18.76,7.6,64.4
+Taobao,verypoor,1,19.27,6.1,64.5
+Taobao,verypoor,1,19.78,9.8,64.7
+Taobao,verypoor,1,20.31,18.8,65.0
+Taobao,verypoor,1,20.77,9.8,64.5
+Taobao,verypoor,1,21.27,4.3,64.8
+Taobao,verypoor,1,21.77,4.7,64.6
+Taobao,verypoor,1,22.31,6.0,64.7
+Taobao,verypoor,1,22.78,11.0,64.5
+Taobao,verypoor,1,23.82,75.9,65.1
+Taobao,verypoor,1,24.3,91.1,65.3
+Taobao,verypoor,1,24.78,40.6,72.1
+Taobao,verypoor,2,1.01,0,90.2
+Taobao,verypoor,2,1.76,236.7,107.5
+Taobao,verypoor,2,2.55,130.6,124.4
+Taobao,verypoor,2,3.09,10.3,119.7
+Taobao,verypoor,2,3.59,67.0,125.5
+Taobao,verypoor,2,4.08,242.4,138.8
+Taobao,verypoor,2,4.58,31.8,139.1
+Taobao,verypoor,2,5.09,13.6,135.5
+Taobao,verypoor,2,5.5,30.9,136.1
+Taobao,verypoor,2,6.07,25.7,134.5
+Taobao,verypoor,2,6.52,44.3,136.1
+Taobao,verypoor,2,6.99,29.7,138.1
+Taobao,verypoor,2,7.53,14.4,138.1
+Taobao,verypoor,2,8.05,44.9,140.3
+Taobao,verypoor,2,8.5,43.2,143.8
+Taobao,verypoor,2,9.06,9.6,141.8
+Taobao,verypoor,2,9.53,17.3,142.0
+Taobao,verypoor,2,10.03,9.4,141.2
+Taobao,verypoor,2,10.53,9.7,141.3
+Taobao,verypoor,2,10.98,47.3,141.6
+Taobao,verypoor,2,11.47,36.2,146.7
+Taobao,verypoor,2,11.98,24.7,146.9
+Taobao,verypoor,2,12.48,29.1,146.4
+Taobao,verypoor,2,12.98,13.3,146.5
+Taobao,verypoor,2,13.48,34.6,142.5
+Taobao,verypoor,2,14.0,17.3,142.7
+Taobao,verypoor,2,15.04,98.2,147.9
+Taobao,verypoor,2,15.53,21.0,148.1
+Taobao,verypoor,2,16.04,36.0,152.3
+Taobao,verypoor,2,16.53,24.8,152.4
+Taobao,verypoor,2,17.02,28.3,151.6
+Taobao,verypoor,2,17.49,27.8,152.1
+Taobao,verypoor,2,18.01,30.4,149.4
+Taobao,verypoor,2,18.51,12.3,149.4
+Taobao,verypoor,2,18.98,16.2,149.7
+Taobao,verypoor,2,19.49,18.0,149.9
+Taobao,verypoor,2,20.03,10.2,149.4
+Taobao,verypoor,2,20.52,11.6,149.4
+Taobao,verypoor,2,21.05,37.2,149.7
+Taobao,verypoor,2,21.48,19.5,150.6
+Taobao,verypoor,2,22.02,7.1,150.3
+Taobao,verypoor,2,22.48,46.6,151.1
+Taobao,verypoor,2,23.04,15.5,151.1
+Taobao,verypoor,2,23.48,8.1,151.2
+Taobao,verypoor,2,23.98,19.5,149.6
+Taobao,verypoor,2,24.56,19.0,149.7

@@ -1,0 +1,9 @@
+step,start_s,end_s,seconds,cpu_avg_pct,footprint_max_mb,up_kb,down_kb
+device check,0.0,6.4,6.4,63.0,893.2,19.7,28.0
+choose plan & number,6.4,11.8,5.4,26.3,468.1,20.9,22.9
+ID card scan,11.8,19.8,8.0,29.8,429.7,157.9,50.2
+face scan,19.8,44.1,24.4,22.9,500.9,344.9,128.4
+verifying identity,44.1,50.5,6.4,29.9,484.9,292.3,25.7
+review & payment page,50.5,61.8,11.3,32.8,390.7,36.2,48.1
+Paying in ABA,61.8,74.5,12.7,2.3,372.8,15.5,12.7
+Waiting after payment,74.5,100.0,25.4,28.1,318.7,80.8,128.3

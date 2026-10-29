@@ -1,0 +1,126 @@
+visit,screen,host,kb
+1,Home,analytics.adjust.com,426.8
+1,Home,prod-bff-smartnas.smart.com.kh,27.4
+1,Home,a2047.api1.akamai.net,2.1
+2,Top Up,analytics.adjust.com,29.7
+2,Top Up,prod-bff-smartnas.smart.com.kh,0.2
+3,SmartVIP points,prod-bff-smartnas.smart.com.kh,128.4
+3,SmartVIP points,analytics.adjust.com,50.9
+4,History: balance,analytics.adjust.com,100.3
+4,History: balance,prod-bff-smartnas.smart.com.kh,12.0
+5,History: data usage,analytics.adjust.com,103.7
+5,History: data usage,prod-bff-smartnas.smart.com.kh,31.9
+6,SmartVIP points,analytics.adjust.com,35.8
+6,SmartVIP points,prod-bff-smartnas.smart.com.kh,24.4
+7,Points & discounts history,analytics.adjust.com,22.0
+7,Points & discounts history,prod-bff-smartnas.smart.com.kh,14.0
+8,eVoucher Center,prod-bff-smartnas.smart.com.kh,51.0
+8,eVoucher Center,analytics.adjust.com,31.0
+9,Top Up & payment options,analytics.adjust.com,202.9
+9,Top Up & payment options,prod-bff-smartnas.smart.com.kh,94.0
+9,Top Up & payment options,api.reproio.com,10.3
+9,Top Up & payment options,a2047.api1.akamai.net,2.3
+10,eVoucher Center,prod-bff-smartnas.smart.com.kh,1025.4
+10,eVoucher Center,analytics.adjust.com,46.3
+11,SmartVIP restaurant deal,prod-bff-smartnas.smart.com.kh,718.3
+11,SmartVIP restaurant deal,analytics.adjust.com,148.0
+11,SmartVIP restaurant deal,clients4.google.com,24.8
+11,SmartVIP restaurant deal,www.google.com,19.6
+11,SmartVIP restaurant deal,www.googleapis.com,10.6
+12,Outlet map & redeem,analytics.adjust.com,63.8
+12,Outlet map & redeem,www.google.com,28.5
+12,Outlet map & redeem,a2047.api1.akamai.net,1.0
+12,Outlet map & redeem,prod-bff-smartnas.smart.com.kh,0.2
+13,SmartVIP rewards,prod-bff-smartnas.smart.com.kh,345.1
+13,SmartVIP rewards,analytics.adjust.com,183.8
+13,SmartVIP rewards,a2047.api1.akamai.net,1.1
+14,5G plans,prod-bff-smartnas.smart.com.kh,125.5
+14,5G plans,analytics.adjust.com,18.4
+14,5G plans,www.googleapis.com,1.0
+15,5G coverage map,analytics.adjust.com,56.4
+15,5G coverage map,www.google.com,28.0
+15,5G coverage map,play.googleapis.com,23.7
+15,5G coverage map,prod-bff-smartnas.smart.com.kh,15.4
+15,5G coverage map,www.googleapis.com,12.2
+16,Device compatibility check,analytics.adjust.com,32.4
+16,Device compatibility check,prod-bff-smartnas.smart.com.kh,4.3
+17,5G plans,analytics.adjust.com,72.9
+17,5G plans,prod-bff-smartnas.smart.com.kh,44.9
+18,Cybersecurity & Schedules,prod-bff-smartnas.smart.com.kh,44.8
+18,Cybersecurity & Schedules,analytics.adjust.com,36.5
+19,eSIM,analytics.adjust.com,79.7
+19,eSIM,prod-bff-smartnas.smart.com.kh,42.6
+19,eSIM,a2047.api1.akamai.net,2.1
+20,Favorites,analytics.adjust.com,61.2
+20,Favorites,prod-bff-smartnas.smart.com.kh,44.9
+21,SmartRoam,prod-bff-smartnas.smart.com.kh,1917.0
+21,SmartRoam,www.googletagmanager.com,377.8
+21,SmartRoam,analytics.adjust.com,190.8
+21,SmartRoam,www.google.com,71.5
+21,SmartRoam,analytics.google.com,26.1
+21,SmartRoam,www.google.com.kh,23.7
+22,Explore plans,analytics.adjust.com,133.4
+22,Explore plans,prod-bff-smartnas.smart.com.kh,96.3
+22,Explore plans,api.reproio.com,10.0
+22,Explore plans,a2047.api1.akamai.net,1.0
+23,Services & add-ons,analytics.adjust.com,169.3
+23,Services & add-ons,prod-bff-smartnas.smart.com.kh,120.2
+23,Services & add-ons,a2047.api1.akamai.net,1.2
+23,Services & add-ons,api.reproio.com,0.3
+24,Home Internet plans,analytics.adjust.com,88.3
+24,Home Internet plans,prod-bff-smartnas.smart.com.kh,62.7
+24,Home Internet plans,ep2.facebook.com,43.1
+24,Home Internet plans,api.reproio.com,20.8
+24,Home Internet plans,www.googleapis.com,17.1
+24,Home Internet plans,gsp-ssl.ls.apple.com,11.4
+25,Help & FAQ,analytics.adjust.com,152.4
+25,Help & FAQ,prod-bff-smartnas.smart.com.kh,36.1
+25,Help & FAQ,api.reproio.com,10.3
+25,Help & FAQ,a2047.api1.akamai.net,6.7
+26,Profile & Bong Smart chat,prod-bff-smartnas.smart.com.kh,291.7
+26,Profile & Bong Smart chat,analytics.adjust.com,40.7
+26,Profile & Bong Smart chat,www-alv.google-analytics.com,3.8
+27,Switch account,ssnb.overseasbaas.com,1055.7
+27,Switch account,prod-bff-smartnas.smart.com.kh,877.9
+27,Switch account,analytics.adjust.com,140.6
+27,Switch account,ep2.facebook.com,38.3
+27,Switch account,www.googleapis.com,31.8
+27,Switch account,play.googleapis.com,25.3
+28,Buying add-ons,analytics.adjust.com,233.6
+28,Buying add-ons,prod-bff-smartnas.smart.com.kh,181.4
+28,Buying add-ons,geomobileservices-pa.googleapis.com,17.4
+28,Buying add-ons,a2047.api1.akamai.net,2.1
+28,Buying add-ons,www.googleapis.com,0.5
+29,Notifications,analytics.adjust.io,83.8
+29,Notifications,prod-bff-smartnas.smart.com.kh,20.1
+29,Notifications,analytics.adjust.com,17.4
+29,Notifications,gsp-ssl.ls.apple.com,0.3
+30,Home,prod-bff-smartnas.smart.com.kh,426.7
+30,Home,ssnb.overseasbaas.com,351.9
+30,Home,analytics.adjust.io,81.5
+30,Home,iid.googleapis.com,29.7
+30,Home,firebaselogging-pa.googleapis.com,13.3
+30,Home,ep2.facebook.com,11.8
+31,Level Up & Daily Fortune game,prod-bff-smartnas.smart.com.kh,4640.9
+31,Level Up & Daily Fortune game,ssnb.overseasbaas.com,348.8
+31,Level Up & Daily Fortune game,analytics.adjust.io,250.0
+31,Level Up & Daily Fortune game,ep2.facebook.com,64.3
+31,Level Up & Daily Fortune game,firebaselogging-pa.googleapis.com,25.4
+31,Level Up & Daily Fortune game,analytics.us.tiktok.com,19.0
+32,Sign-in with OTP,prod-bff-smartnas.smart.com.kh,361.7
+32,Sign-in with OTP,analytics.adjust.io,137.7
+32,Sign-in with OTP,ep2.facebook.com,49.5
+32,Sign-in with OTP,analytics.us.tiktok.com,13.7
+32,Sign-in with OTP,iid.googleapis.com,7.6
+32,Sign-in with OTP,gsp-ssl.ls.apple.com,2.4
+33,"Devices, payment methods, About",analytics.adjust.io,80.6
+33,"Devices, payment methods, About",prod-bff-smartnas.smart.com.kh,67.7
+33,"Devices, payment methods, About",ep2.facebook.com,22.3
+33,"Devices, payment methods, About",analytics.us.tiktok.com,5.4
+33,"Devices, payment methods, About",gsp-ssl.ls.apple.com,2.4
+34,Help & FAQ,prod-bff-smartnas.smart.com.kh,204.8
+34,Help & FAQ,analytics.adjust.io,145.5
+34,Help & FAQ,ep2.facebook.com,51.9
+34,Help & FAQ,api.reproio.com,30.2
+34,Help & FAQ,geomobileservices-pa.googleapis.com,17.7
+34,Help & FAQ,analytics.us.tiktok.com,7.8
